@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I'm currently studying computer science at the State University of Małopolska in Oświęcim
+- My skills include JavaScript, React, HTML, CSS
+- I learn programming mainly on my own with the help of online courses
 <!--
 **Matecek/Matecek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
